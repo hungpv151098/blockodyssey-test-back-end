@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "F:\\blockodyssey-test-back-end\\src\\logs\\debug\\.e20861c3c88ea6537d58e0e3fa8bf8475c9c3259-audit.json",
+    "files": [
+        {
+            "date": 1709020710707,
+            "name": "F:\\blockodyssey-test-back-end\\src\\logs\\debug\\info-2024-02-27.log",
+            "hash": "bc6157db10025421510d963347ce10676346ceba02f7c64f757103298f3673ed"
+        }
+    ],
+    "hashType": "sha256"
+}
